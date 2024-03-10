@@ -16,11 +16,11 @@ Create a folder named “Public” on your C: drive  <br/>
 <br />
 <br />
 Right-click the folder you created and scroll down its menu. Click “Properties”. <br/>
-<img src="https://i.imgur.com/0EH7Kai.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IkzS9Fs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Open the sharing tab and click “Advanced Sharing”. <br/>
-<img src="https://i.imgur.com/nmyPt0k.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Hw5SdEI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Check the “Share this Folder” check box and click on “Permissions”  <br/>
