@@ -36,7 +36,7 @@ Select the “Full Control” check box in the “Permissions for Domain Users�
 <img src="https://i.imgur.com/ERGNFyp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Click the “OK” button on the “Advanced Sharing” dialog box.
-<img src="https://i.imgur.com/m0RkRIH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T5DG5Xg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 To complete this configuration, click the “Close” button on the “Public Properties” dialog box.
 <img src="https://i.imgur.com/m0RkRIH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
