@@ -8,7 +8,10 @@ In this lab we're going to create  user home directory on the server and assign 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> 
+
+- <b>Active Directory</b>
+- <b>File Explorer</b>
+- <b>Server Manager</b> 
 
 <br />
 Create a folder named “Public” on your C: drive  <br/>
