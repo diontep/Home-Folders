@@ -55,6 +55,7 @@ Click the “Define Query..” button to continue.
 <br />
 <br />
 Select “Users, Contacts, and Groups” from the “Find” dropdown menu of the “Find Users, Contacts, and Groups” dialog box. Select the “Advanced” tab and click the “Field” button.
+
 <img src="https://i.imgur.com/d7P2cMc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Select “User”🡪 ”Logon Name” from the menu.
@@ -86,5 +87,4 @@ Launch the “File Explorer” navigate to “This PC”. The “Public (\\Serve
 <img src="https://i.imgur.com/zIWZGsU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Click the “Public (\\Server1) (Q:)” share and create a folder for your user in it.
-<img src="https://i.imgur.com/IKugITI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
